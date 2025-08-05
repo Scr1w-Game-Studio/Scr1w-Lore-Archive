@@ -24,6 +24,10 @@ This repository contains partial and public information related to our upcoming 
 
 > 声明：本仓库内容作为创作素材公开，仅供参考，后续可能有所调整。
 
+## 游戏类型
+
+像素风2D横板类银河恶魔城
+
 ## 世界观线索
 
 ---
