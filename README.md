@@ -38,5 +38,6 @@ This repository contains partial and public information related to our upcoming 
 - 介潭生先龍，先龍生𤣥黿，𤣥黿生靈龜，靈龜生庶龜，凡介者生庶於龜。
 - 根拔生程若，程若生𤣥玉，𤣥玉生醴泉，醴泉生皇辜，皇辜生庶草，凡根茇草者生於庶草。
 - 海閭生屈龍，屈龍生容華，容華生蔈，蔈生萍藻，萍藻生浮草，凡浮生不根茇者生於萍藻。
+- 蠃、鳞、毛、羽、介
 
 ---
